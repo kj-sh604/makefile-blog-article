@@ -1,2 +1,2 @@
 compile:
-		 pandoc -s article.md -o article.html --css style.css
+		 pandoc -s index.md -o index.html --css style.css
