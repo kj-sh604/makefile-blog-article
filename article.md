@@ -14,8 +14,8 @@ viewport: width=device-width, initial-scale=1
 
 <!-- Main Content Goes Here -->
 
-[\> next article]()\
-[\< previous article]()
+[\> next article](../)\
+[\< previous article](../)
 \
 \
 [\<\< all articles](../../articles/)\
